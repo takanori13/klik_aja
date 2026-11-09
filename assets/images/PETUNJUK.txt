@@ -1,0 +1,3 @@
+Taruh foto di folder ini dengan nama photo-1.jpg sampai photo-6.jpg.
+Nama file dan caption bisa diedit di js/config.js.
+Tambahkan og-preview.jpg untuk preview saat link dibagikan.

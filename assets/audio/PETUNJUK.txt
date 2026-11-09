@@ -1,0 +1,1 @@
+Musik bawaan dibuat menggunakan Web Audio API. Folder ini disediakan jika ingin menaruh audio sendiri.
